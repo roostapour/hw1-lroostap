@@ -4,7 +4,7 @@
   <groupId>edu.cmu.lti.11791.f13.hw1
 </groupId>
   <artifactId>hw1-lroostap</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <repositories>
     <repository>
       <id>oaqa</id>
